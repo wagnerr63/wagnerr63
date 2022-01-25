@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-ribas-b5791b17a/)
 
-I'm Wagner Ribas, full-stack developer from Brazil. My first contact with coding was in 2018, when I was coursing IT at SENAI institution, where I built a solid base of programming logic, OOP and databases. I learned desktop development with Java and web development with HTML, CSS, JS and PHP. At the end of the course we had to build a real project for a client. 
+I'm Wagner Ribas, software engineer from Brazil. My first contact with coding was in 2018, when I was coursing IT at SENAI institution, where I built a solid base of programming logic, OOP and databases. I learned desktop development with Java and web development with HTML, CSS, JS and PHP. At the end of the course we had to build a real project for a client. 
 
 - 📫 I'm currently studying Systems Analysis and Development at UDESC
 - 🔭 I'm currently working for a trading company and building their ERP
