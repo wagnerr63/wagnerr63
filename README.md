@@ -6,7 +6,6 @@ I'm Wagner Ribas, software engineer from Brazil. My first contact with coding wa
 
 - 📫 I'm currently studying Systems Analysis and Development at UDESC
 - 🔭 I'm currently working for a trading company as a software engineer, taking care of their own system and leading the developing a new product.
-- 🌱 I’m currently learning Prisma.io
 
 <!--
 **wagnerr63/wagnerr63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
