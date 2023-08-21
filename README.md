@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-ribas-b5791b17a/)
 
